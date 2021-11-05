@@ -7,5 +7,5 @@ hello cc
 hello cc
 hello cc
 hello cc
-hello cc--test
+hello cc--master test
 hello cc
